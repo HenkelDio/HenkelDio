@@ -6,7 +6,7 @@
 
 <p>🆙 2y XP Software developer</p>
 <p>👨‍🏫 I have already taught web development classes</p>
-<p>🎮 I develop 1 game jam</p>
+<p>🎮 1 game developed in Game Jam</p>
 <p>🏴 I participated in 2 hackthons</p>
 
 <hr>
